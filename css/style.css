@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+  
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.contact-form { 
+     background: rgba(0,0,0, 0.6);
+     color: white;
+
+}
+section {
+    background-image: url(https://media-exp1.licdn.com/dms/image/C4D03AQGVR7ny2mjEzw/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=0sn-EK5F7uTxT32f7ZN9lJpDN-ZocmIZZHpnVl_Re7s);
+    background-size: 100% 100%; 
+}
+
+.container1{
+    width: 800px;
+    margin: 50px auto 0;
+    display: table;
+    box-sizing: border-box;
+}
+
+.row{
+    margin: 20px 0;
+}
+
+.column{
+    background: #000000;
+    display: table-cell;
+    padding: 10px;
+    width: 33.3333%;
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    border-left: 10px solid#fff;
+    border-right: 10px solid#fff;
+
+
+}
+
+.container1{
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+}
+
+.column{
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+.row{
+    margin: 20px 0;
+}
+
+
+
