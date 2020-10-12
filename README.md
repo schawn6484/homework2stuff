@@ -2,8 +2,8 @@
 Description/Screenshot
 
 Three initial html
-Addded temporary template 
-Added modification
+Eliminated temporary template 
+Added modifications
 
 Below are the screenshots:
 ![](images/Screen%20Shot%202020-10-10%20at%209.47.45%20PM.png)
